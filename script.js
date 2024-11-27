@@ -4,6 +4,7 @@ function sayHello() {
   console.log("sayHello");
 }
 
-function sayHI() {
+function sayHi() {
   console.log("HIII");
+  return "one";
 }
