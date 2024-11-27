@@ -5,5 +5,5 @@ function sayHello() {
 }
 
 function sayHI() {
-  console.log("HIIII");
+  console.log("HIII");
 }
